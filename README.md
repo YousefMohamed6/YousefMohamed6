@@ -1,13 +1,46 @@
-### Hi there 👋,  
-#### I am Junior Flutter Developer
-![I am Junior Flutter Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-i there 👋. I’m Yousef Mohamed, a skilled and results-driven Flutter Developer with a strong background in Android app development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Android ecosystem, I build solutions that are not only functional but also delightful. I love to give back to the community by blogging, speaking, and open-sourcing my ideas. If I’m not crafting app/library then probably wondering about the universe’s existence.
+<h2 align="center">Hi 👋, I'm Yousef Mohamed</h2>
+<h3 align="center">Junior Flutter Developer </h3>
 
-Skills: Dart / Flutter /
-
-- 🔭 I’m currently working @ appy innovate. 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YousefMohamed6&label=Profile%20Views&color=0e75b6&style=flat" alt="YousefMohamed6"/>
+</p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yousef-mohamed-25b772240/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/amir.elahzan.50364)  
+### 💬  About:
+I'm a Flutter developer who builds apps that actually solve problems. 💼From e-invoices to education platforms, I build with performance, scalability, and user experience in mind🔥. I code with passion. I design with intent.
 
+### 🧠 Currently learning:
+- Algorithms & Data Structure.
+- Design Patterns.
+---
+
+💼 Experience
+
+- **Flutter Developer** @ Appy Innovate (Jun 2024 – Feb 2025)  
+- **Flutter Intern** @ Smart Online Solution (Oct 2023 – Dec 2023)
+---
+
+## 🛠️ Tech Stack
+
+### 🧱 Architectures & Patterns  
+`MVVM`, `Clean Architecture`
+
+### ⚙️ State Management  
+`Bloc`, `Cubit`, `Riverpod`, `Provider`
+
+### 🗃️ Database & Backend  
+`Firebase`, `Supabase`, `SQLite`, `SQL Server`, `REST APIs`
+
+### 🧰 Tools  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+`CI/CD`
+
+##  Projects
+### E-Invoice
+[Google Play](https://play.google.com/store/apps/details?id=com.appyinnovate.e_invoice&hl=en_US) & 	[App Store](https://apps.apple.com/eg/app/e-invoice-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9/id6502558512)
+
+### I-Teacher
+[Amazon Store](https://www.amazon.com/gp/product/B0F3KZHCCH)
