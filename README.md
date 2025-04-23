@@ -7,8 +7,8 @@
 </p>
 
 
-### 💬  About:
-I'm a Flutter developer who builds apps that actually solve problems. 💼From e-invoices to education platforms, I build with performance, scalability, and user experience in mind🔥. I code with passion. I design with intent.
+### 💬  Overview:
+Software Engineer skilled in delivering solutions like electronic invoicing, educational applications, and e-commerce systems, emphasizing user experience and performance to drive business goals and meet customer needs.
 
 ### 🧠 Currently learning:
 - Algorithms & Data Structure.
