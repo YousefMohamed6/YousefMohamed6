@@ -10,10 +10,6 @@
 ### 💬  Overview:
 Software Engineer skilled in delivering solutions like electronic invoicing, educational applications, and e-commerce systems, emphasizing user experience and performance to drive business goals and meet customer needs.
 
-### 🧠 Currently learning:
-- Algorithms & Data Structure.
-- Design Patterns.
----
 
 💼 Experience
 
