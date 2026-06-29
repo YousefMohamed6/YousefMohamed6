@@ -12,7 +12,7 @@ Software Engineer skilled in delivering solutions like electronic invoicing, edu
 
 
 💼 Experience
-
+- **Flutter Developer** @ Lux Station (Nov 2025 – Present)
 - **Flutter Developer** @ MS Giraffe (May 2025 – Jul 2025)  
 - **Flutter Developer** @ Appy Innovate (Jun 2024 – Feb 2025)  
 - **Flutter Intern** @ Smart Online Solution (Oct 2023 – Dec 2023)
